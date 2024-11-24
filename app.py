@@ -1,5 +1,3 @@
 def add(a, b):
-    return a + b
-
-def subtract(a, b):
-    return a - b  # Updated by feature-y
+    return a - b
+  # Updated by feature-y
