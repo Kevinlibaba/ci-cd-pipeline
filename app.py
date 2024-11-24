@@ -1,3 +1,2 @@
 def add(a, b):
-    return a - b
-  # Updated by feature-y
+    return a + b  # Resolved conflict
