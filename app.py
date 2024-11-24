@@ -1,2 +1,2 @@
 def add(a, b):
-    return a + b  # Resolved conflict
+    return a * b  # Updated by feature-z
