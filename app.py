@@ -1,3 +1,3 @@
-def add(a, b): return a * b
-print("Testing Jenkins trigger!")
+def add(a, b): 
+  return a + b
 
